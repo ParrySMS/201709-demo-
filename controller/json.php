@@ -1,5 +1,8 @@
 <?php
 
+//这部分的代码写的太死了 不应该用switch case 可以直接调用参数retcode就好
+
+
 require "../model/Json.class.php";
 
 /**
